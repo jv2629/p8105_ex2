@@ -1,0 +1,13 @@
+---
+title: "Retry_w_Readme"
+output: html_document
+---
+
+#Initial commit
+Yay it worked
+
+#Trying some code for Readme track changes
+```{r}
+j = 3 + 6
+```
+
